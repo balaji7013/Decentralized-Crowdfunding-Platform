@@ -175,6 +175,30 @@ Import one of the Hardhat test accounts.
 - Secure wallet authentication
 
 ---
+## 📸 Screenshots
+
+### 🏠 Homepage (Updated UI)
+![Homepage](UpdatedHome.png)
+
+---
+
+### 🔐 Homepage After Wallet Connection
+![Homepage After Wallet](HomePageAfterWalletConnection.png)
+
+---
+
+### 📋 All Campaigns
+![All Campaigns](AllCampaigns.png)
+
+---
+
+### ➕ Create Campaign Form
+![Create Campaign](CampaignForm.png)
+
+---
+
+### 👤 User Profile
+![Profile](profile.png)
 
 ## 🧪 Testing
 
